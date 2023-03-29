@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/7ata2shop/static/css/main.73fbfa14.css",
+    "main.js": "/7ata2shop/static/js/main.be804016.js",
+    "index.html": "/7ata2shop/index.html",
+    "main.73fbfa14.css.map": "/7ata2shop/static/css/main.73fbfa14.css.map",
+    "main.be804016.js.map": "/7ata2shop/static/js/main.be804016.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.73fbfa14.css",
+    "static/js/main.be804016.js"
+  ]
+}
